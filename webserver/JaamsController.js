@@ -7,7 +7,6 @@ const fs = require('fs')
 const util = require('util')
 const path = require("path")
 const { result } = require("lodash")
-const googleAPIKey = "AIzaSyByIuiDgGhUq2HB2pxJQfApbcLXnQbd57Q"
 
 let cachedResults = new Object()
 
