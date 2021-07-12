@@ -1,0 +1,19 @@
+{
+  "name": "Jaams Extension",
+  "version": "1.0.0",
+  "description": "A simple compose extension to read your stories later",
+  "manifest_version": 3,
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_icon": "icons/icon128.png",
+    "default_popup": "index.html",
+    "default_title": "Jaams Extension"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
