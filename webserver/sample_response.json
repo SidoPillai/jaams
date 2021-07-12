@@ -1,0 +1,2126 @@
+{
+    "root": "n-NeaauE",
+    "nodes": {
+        "n-aBjLgI": {
+            "type": "image",
+            "data": {
+                "image": "r-Vu0w0H",
+                "alt": "Jim Enote, Nikki Cooley, Leigh Kuwanwisiwma, Coleen Kaska, and Loretta Jackson-Kelly share what the Grand Canyon means to them."
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.6319550122220092,
+                        "y": 0.19184017181396484
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-GPCp2W": {
+            "type": "storycover",
+            "data": {
+                "type": "full",
+                "title": "The Voices of Grand Canyon",
+                "summary": "Read, listen, watch, and learn.",
+                "byline": "by The Grand Canyon Trust",
+                "titlePanelPosition": "start"
+            },
+            "children": [
+                "n-aBjLgI"
+            ]
+        },
+        "n-swGKnW": {
+            "type": "navigation",
+            "data": {
+                "links": [
+                    {
+                        "nodeId": "n-1Thj8O",
+                        "customText": "Jim Enote",
+                        "linkType": "story-heading"
+                    },
+                    {
+                        "nodeId": "n-_jJus-",
+                        "customText": "Nikki Cooley",
+                        "linkType": "story-heading"
+                    },
+                    {
+                        "nodeId": "n-nUeoHm",
+                        "customText": "Leigh Kuwanwisiwma",
+                        "linkType": "story-heading"
+                    },
+                    {
+                        "nodeId": "n-Kep8fU",
+                        "customText": "Coleen Kaska",
+                        "linkType": "story-heading"
+                    },
+                    {
+                        "nodeId": "n-cpnweS",
+                        "customText": "Loretta Jackson-Kelly",
+                        "linkType": "story-heading"
+                    },
+                    {
+                        "nodeId": "n-3ugo1G",
+                        "isHidden": true,
+                        "linkType": "story-heading"
+                    }
+                ]
+            },
+            "config": {
+                "isHidden": false
+            }
+        },
+        "n-b2re2T": {
+            "type": "text",
+            "data": {
+                "text": "Each year, over 6 million people stand on the rim of the Grand Canyon, gazing into the ancient abyss whose rocks predated the dinosaurs, formed ancient sea floors, and, at times, spewed out molten lava.",
+                "type": "paragraph"
+            }
+        },
+        "n-aioUXg": {
+            "type": "text",
+            "data": {
+                "text": "Yet the canyon is more than its geologic past. And it’s surely more than a bucket list destination. The Grand Canyon is a spiritual home to Native peoples whose ancestors farmed along the river, built homes in the cliffs, and hunted along the canyon rims since time immemorial.",
+                "type": "paragraph"
+            }
+        },
+        "n-QASdsz": {
+            "type": "image",
+            "data": {
+                "caption": "<p>Maps from “<a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3541891\" rel=\"noopener noreferrer\" target=\"_blank\">Not Yet America’s Best Idea: Law, Inequality, and Grand Canyon National Park</a>” by Sarah Krakoff.</p>",
+                "image": "r-D83nxm"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-o2xUVk": {
+            "type": "text",
+            "data": {
+                "text": "Today, 11 tribes maintain cultural connections to the Grand Canyon. Their stories stack up as high as the mile-deep canyon itself—stories of movement and migration, hardship and struggle, origins, reverence, and awe.",
+                "type": "paragraph"
+            }
+        },
+        "n-4AeOWD": {
+            "type": "text",
+            "data": {
+                "text": "But rarely do tourists hear firsthand from people whose cultures, worldviews, and livelihoods are inextricably tied to the Grand Canyon region.",
+                "type": "paragraph"
+            }
+        },
+        "n-4v7vqX": {
+            "type": "text",
+            "data": {
+                "text": "Below, Jim Enote (Zuni), Nikki Cooley (Navajo), Leigh Kuwanwisiwma (Hopi), Coleen Kaska, (Havasupai), and Loretta Jackson-Kelly (Hualapai) share what the Grand Canyon means to them and what they know in their hearts to be true.",
+                "type": "paragraph"
+            }
+        },
+        "n-NxGs1B": {
+            "type": "text",
+            "data": {
+                "text": "We hope you’ll read, listen, watch, and learn with them.",
+                "type": "h3"
+            }
+        },
+        "n-KuxvyZ": {
+            "type": "image",
+            "data": {
+                "image": "r-gootg1",
+                "isExpandable": false
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-1Thj8O": {
+            "type": "text",
+            "data": {
+                "type": "h2",
+                "text": "Jim Enote, Zuni"
+            }
+        },
+        "n-eMwi9W": {
+            "type": "text",
+            "data": {
+                "text": "“The Zuni people, we call ourselves the A:shiwi. We’ve been here for a long time, a very long time.”",
+                "type": "h3"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-5jCHu_": {
+            "type": "text",
+            "data": {
+                "text": "– Jim Enote, Zuni",
+                "type": "paragraph"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-wJsZSw": {
+            "type": "immersive-narrative-panel",
+            "data": {
+                "position": "start-middle",
+                "panelStyle": "themed"
+            },
+            "children": [
+                "n-eMwi9W",
+                "n-5jCHu_"
+            ]
+        },
+        "n-7Jzxay": {
+            "type": "image",
+            "data": {
+                "alt": "Jim Enote, a Zuni tribal member, traditional farmer, and CEO of the Colorado Plateau Foundation.",
+                "image": "r-lGo5HV"
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5741935483870968,
+                        "y": 0.18153683574879226
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-8v_rHE": {
+            "type": "immersive-slide",
+            "data": {
+                "transition": "fade",
+                "backgroundColor": "#A9B4B3"
+            },
+            "children": [
+                "n-wJsZSw",
+                "n-7Jzxay"
+            ]
+        },
+        "n-_JOuO2": {
+            "type": "immersive",
+            "data": {
+                "type": "slideshow"
+            },
+            "children": [
+                "n-8v_rHE"
+            ]
+        },
+        "n-wCqQXJ": {
+            "type": "text",
+            "data": {
+                "text": "In 1540, following distant tales of mythical places laden with treasures, Spanish conquistadors arrived in what is known today as western New Mexico thinking they had found the first of the fabled Seven Cities of Gold.",
+                "type": "paragraph"
+            }
+        },
+        "n-JEoNCx": {
+            "type": "text",
+            "data": {
+                "text": "Really, they had stumbled into a Zuni village.",
+                "type": "paragraph"
+            }
+        },
+        "n-bs9Bil": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758965651&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Jim Enote on the Word \"Pueblo\"",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Listen to Enote describe the history of the term \"Puebloan people.\"</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Jim Enote describes where the term puebloan people comes from.",
+                "hasPlaceholderOpenButton": true,
+                "description": "Jim Enote, a Zuni tribal member, traditional farmer, and CEO of the Colorado Plateau Foundation, describes where the term \"puebloan people\" comes from.",
+                "thumbnailResourceId": "r-WOLPtV"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-sSETs3": {
+            "type": "text",
+            "data": {
+                "type": "paragraph",
+                "text": "Not seeing the gold bricks and emerald-studded doorways they had imagined, Francisco Vásquez de Coronado and his army overtook Zuni, plundered what they could, and turned the village into expedition headquarters."
+            }
+        },
+        "n-ddOZs4": {
+            "type": "text",
+            "data": {
+                "text": "It was among the first encounters of Europeans with Native peoples of North America.",
+                "type": "paragraph"
+            }
+        },
+        "n-qdLnRt": {
+            "type": "image",
+            "data": {
+                "image": "r-Bp2peL"
+            },
+            "config": {
+                "size": "float"
+            }
+        },
+        "n-mcADxO": {
+            "type": "text",
+            "data": {
+                "text": "The Zuni, a farming people, have long lived in the Zuni Valley. They settled where they found fertile soil and plentiful water—riches more valuable than Coronado could have hoped for.",
+                "type": "paragraph"
+            }
+        },
+        "n-1l_kJP": {
+            "type": "text",
+            "data": {
+                "text": "The Zuni call this valley their homeland, but they have never forgotten where they come from: the Grand Canyon.",
+                "type": "paragraph"
+            }
+        },
+        "n-jXYFZF": {
+            "type": "embed",
+            "data": {
+                "url": "https://vimeo.com/391271625",
+                "title": "Private video on Vimeo",
+                "description": "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.",
+                "providerUrl": "https://vimeo.com/",
+                "caption": "<p>Jim Enote describes Zuni connections to the Grand Canyon.</p>",
+                "embedType": "video",
+                "display": "inline",
+                "width": 1920,
+                "aspectRatio": 1.617,
+                "alt": "Jim Enote, a Zuni tribal member, traditional farmer, and CEO of the Colorado Plateau Foundation talks about his homelands, the Zuni place of emergence, petroglyphs, and what he knows in his heart to be true.",
+                "hasPlaceholderOpenButton": true
+            },
+            "config": {
+                "size": "standard"
+            }
+        },
+        "n-JlMrlz": {
+            "type": "text",
+            "data": {
+                "type": "paragraph",
+                "text": "“The Zuni River and Little Colorado River are like umbilical cords, connecting us back to the place where we emerged,” says Jim Enote, a Zuni tribal member, traditional farmer, and CEO of the Colorado Plateau Foundation."
+            }
+        },
+        "n-jqqJNI": {
+            "type": "image",
+            "data": {
+                "alt": "Present day map of Zuni. Map by Stephanie Smith.",
+                "image": "r-CerasA"
+            },
+            "config": {
+                "size": "float",
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-s0BmzM": {
+            "type": "text",
+            "data": {
+                "text": "The Zuni call their place of emergence Chimik’yana’kya dey’a. You might know it as Ribbon Falls, a beautiful 100-foot waterfall north of today’s Phantom Ranch. Enote says that’s where the Zuni people came to see the Sun Father for the first time, that from there, they explored all the tributaries of the Colorado River. ",
+                "type": "paragraph"
+            }
+        },
+        "n-DQI3Ky": {
+            "type": "text",
+            "data": {
+                "text": "Some groups spread north, others east. But they ultimately came together again and settled in the Zuni Valley, on the banks of the Zuni River, which if you follow downstream, empties into the Grand Canyon.",
+                "type": "paragraph"
+            }
+        },
+        "n-jB0R3f": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758964262&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Jim Enote: Ribbon Falls",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Listen to Enote describe Zuni origins.</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Jim Enote describes where life began according to Zuni teachings.",
+                "hasPlaceholderOpenButton": true,
+                "description": "Listen to Jim Enote, a Zuni tribal member, traditional farmer, and CEO of the Colorado Plateau Foundation, describe where life began according to Zuni teachings.",
+                "thumbnailResourceId": "r-_ZoioI"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-uRvzSs": {
+            "type": "text",
+            "data": {
+                "text": "<em>“Deep down into the Earth, when people were still newly forming as human beings, people had webbed hands and webbed feet. We had tails, and we had protrusions on our head. And when we came out of the Grand Canyon, those were removed.\"</em>",
+                "type": "quote"
+            }
+        },
+        "n-4t4gt6": {
+            "type": "text",
+            "data": {
+                "text": "There’s a boulder along the Colorado River that Enote says depicts the story. On it, petroglyphs show people in their webbed form alongside people with clearly incised hands, no tails, and no head protrusions. Next to those is a spiral, which Enote says signifies transition, movement, and migration of the Zuni people to where they are today.",
+                "type": "paragraph"
+            }
+        },
+        "n-kSbhbU": {
+            "type": "image",
+            "data": {
+                "alt": "Jim Enote examines a petroglyph.",
+                "image": "r-tqJlv0"
+            },
+            "config": {
+                "size": "wide",
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-iD4_cq": {
+            "type": "text",
+            "data": {
+                "text": "<em>“Petroglyphs are really kind of maps. We’ve always had maps—they’ve been etched in stone, they’re sung in prayers, they’re mentioned in many different orations, and they’re woven in textiles and painted in ceramics. One important one is the spiral.” </em>",
+                "type": "quote"
+            }
+        },
+        "n-qjQFZ8": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758964058&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Jim Enote on Spiral Petroglyphs",
+                "description": "Jim Enote, a Zuni tribal member, traditional farmer, and CEO of the Colorado Plateau Foundation, talks about what the spiral petroglyph means to him.",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Listen to Enote interpret what the symbol means.</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Jim Enote talks about what the spiral petroglyph means to him.",
+                "hasPlaceholderOpenButton": true,
+                "thumbnailResourceId": "r-AJq6kW"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-6EpHzn": {
+            "type": "text",
+            "data": {
+                "text": "<em>“These petroglyphs are like a library. They’re helping us connect the dots of where we’ve lived before.”</em>",
+                "type": "quote"
+            }
+        },
+        "n-_jJus-": {
+            "type": "text",
+            "data": {
+                "type": "h2",
+                "text": "Nikki Cooley, Diné"
+            }
+        },
+        "n-j5Lytw": {
+            "type": "text",
+            "data": {
+                "text": "“My ancestral homelands are Diné Bikéyah, Navajoland. It’s full of deserts. It’s full of petroglyphs, it’s full of old-growth ponderosa pine. It’s a really sacred place to me.”",
+                "type": "h3"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-x_mucC": {
+            "type": "text",
+            "data": {
+                "text": "– Nikki Cooley, Diné",
+                "type": "paragraph"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-XOAeMe": {
+            "type": "immersive-narrative-panel",
+            "data": {
+                "position": "start-bottom",
+                "panelStyle": "themed"
+            },
+            "children": [
+                "n-j5Lytw",
+                "n-x_mucC"
+            ]
+        },
+        "n-ail_GK": {
+            "type": "image",
+            "data": {
+                "alt": "Nikki Cooley, Diné, photo by Dedra Peaches.",
+                "image": "r-uIKI6x"
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.6533742331288344,
+                        "y": 0.1292482718894009
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-MWPIf2": {
+            "type": "immersive-slide",
+            "data": {
+                "transition": "fade",
+                "backgroundColor": "#A9B4B3"
+            },
+            "children": [
+                "n-XOAeMe",
+                "n-ail_GK"
+            ]
+        },
+        "n-SfwjFD": {
+            "type": "immersive",
+            "data": {
+                "type": "slideshow"
+            },
+            "children": [
+                "n-MWPIf2"
+            ]
+        },
+        "n-9JRyE6": {
+            "type": "image",
+            "data": {
+                "alt": "Present day map of Navajo Nation. Map by Stephanie Smith.",
+                "image": "r-ovIeFj"
+            },
+            "config": {
+                "size": "float",
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-suQLeM": {
+            "type": "text",
+            "data": {
+                "text": "In the heart of the Southwest, at exactly 36&nbsp;degrees, 59 minutes, 56 seconds North and 109 degrees, 02 minutes, 43 seconds West, four invisible lines converge. ",
+                "type": "paragraph"
+            }
+        },
+        "n-dKCw31": {
+            "type": "text",
+            "data": {
+                "text": "Drawn by 19th-century land surveyors, the political boundaries of Arizona, Utah, Colorado, and New Mexico are literally set in stone. Four Corners Monument is a tourist destination where Twister-like moves can land you in four states at once.",
+                "type": "paragraph"
+            }
+        },
+        "n-JZnaty": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758963911&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Nikki Cooley on the Navajo Four Sacred Peaks",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "",
+                "hasPlaceholderOpenButton": true,
+                "thumbnailResourceId": "r-FcYVYO"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-jEjftI": {
+            "type": "text",
+            "data": {
+                "text": "What we call the Four Corners region today, the Navajo, or Diné, have forever known as ancestral homelands. They originate from within four sacred mountains: Dook’o’osliid (San Francisco Peaks), Dibé Ntsaa (Hesperus Mountain), Sisnaajiní (Blanca Peak), and Tsoodzil (Mount Taylor).",
+                "type": "paragraph"
+            }
+        },
+        "n-8wttca": {
+            "type": "text",
+            "data": {
+                "text": "According to Nikki Cooley, a Diné woman from Shonto and Blue Gap, Arizona, these landmarks are sacred boundaries that require offerings and a promise to return if venturing beyond.",
+                "type": "paragraph"
+            }
+        },
+        "n-qpYXa8": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758965210&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Nikki Cooley: Navajo Ties to The Land",
+                "description": "Listen to Nikki Cooley, a Diné woman and Grand Canyon river guide, talk about her cultural ties to the Colorado Plateau.",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Listen to Cooley talk about her cultural ties to the Colorado Plateau.</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Nikki Cooley talkes about Navajo cultural ties to the Grand Canyon and Colorado Plateau.",
+                "hasPlaceholderOpenButton": true,
+                "thumbnailResourceId": "r-gcs4OK"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-Z0utX6": {
+            "type": "text",
+            "data": {
+                "type": "paragraph",
+                "text": "Growing up in the dusty Navajo desert herding sheep and planting corn with her grandparents, Cooley didn’t spend much time around water, let alone whitewater. Yet in her adult life, she became the first Navajo woman to be licensed as a commercial river guide in the Grand Canyon."
+            }
+        },
+        "n-kKRQV2": {
+            "type": "text",
+            "data": {
+                "text": "<em>“I would often do talks at ancestral sites, and two questions would always come up: ‘I can’t believe people lived down here—why did they live down here?’ And, ‘I thought Native Americans were extinct?’ They were very serious about it.\"</em>",
+                "type": "quote"
+            }
+        },
+        "n-dPn3MF": {
+            "type": "image",
+            "data": {
+                "caption": "<p>Nankoweap granaries</p>",
+                "alt": "Nankoweap, Grand Canyon National Park",
+                "image": "r-mCR2ox"
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-brOogO": {
+            "type": "text",
+            "data": {
+                "text": "<em>\"I had to remind myself that people were coming from very urban backgrounds, maybe having grown up in New York, or Sweden, or India—places where Native American culture, to them, was lore. It was John Wayne movies. After I talked to them, I hope they gained a sense that we are still here and that we’re not going anywhere.”</em>",
+                "type": "quote"
+            }
+        },
+        "n-hIMprL": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758964493&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Nikki Cooley Answers Tourist Questions",
+                "description": "Nikki Cooley, a Diné woman and Grand Canyon river guide, talks about questions her river clients would ask her.",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Curious about other questions Nikki would get from her clients?</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Nikki Cooley talks about questions Colorado River clients ask here while rafting the Grand Canyon.",
+                "hasPlaceholderOpenButton": true,
+                "thumbnailResourceId": "r-f5TlOT"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-ZdbiPE": {
+            "type": "text",
+            "data": {
+                "text": "The Grand Canyon is culturally and spiritually significant to the Navajo because of the deities that live there, says Cooley. ",
+                "type": "paragraph"
+            }
+        },
+        "n-Yfoqv_": {
+            "type": "text",
+            "data": {
+                "text": "“We pray to them, for them, with them. It’s a very holy place. It’s my church, basically. That’s my place of worship. It’s hard to explain to someone who is not that familiar with how sacred it is. It is an innate feeling from the soul, from your gut.”",
+                "type": "paragraph"
+            }
+        },
+        "n-jLMSvb": {
+            "type": "embed",
+            "data": {
+                "url": "https://vimeo.com/391279405",
+                "title": "Private video on Vimeo",
+                "description": "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.",
+                "providerUrl": "https://vimeo.com/",
+                "caption": "<p>Cooley talks about her cultural view of the Colorado River and how to visit respectfully.</p>",
+                "embedType": "video",
+                "display": "inline",
+                "width": 1920,
+                "aspectRatio": 1.617,
+                "alt": "Nikki Cooley, a Diné woman and Grand Canyon River Guide, talks about her cultural view of the Colorado River and how to visit respectfully.",
+                "hasPlaceholderOpenButton": true
+            },
+            "config": {
+                "size": "standard"
+            }
+        },
+        "n-hstT_V": {
+            "type": "text",
+            "data": {
+                "text": "Beyond a spiritual refuge, the Grand Canyon has also been a physical safe haven for Navajo people. In the 1860s, Colonel Kit Carson waged war on the Navajo and forcibly marched over 8,000 people hundreds of miles to Fort Sumner in eastern New Mexico. They were held captive there. Nearly one-third died of disease, exposure, and hunger. ",
+                "type": "paragraph"
+            }
+        },
+        "n-PSl2O4": {
+            "type": "text",
+            "data": {
+                "text": "<em>“The Navajo used [the canyon] as a place to hide so they could survive the hunting from the U.S. government who were trying to relocate them. It’s a place of resilience in more than one sense and can teach us about the history of a people who were trying to survive—the people who lived, persevered, and are still here today.”</em>",
+                "type": "quote"
+            }
+        },
+        "n-fSzu5U": {
+            "type": "text",
+            "data": {
+                "text": "As visitors to the Grand Canyon, Cooley challenges us: If we don’t know the complicated history of Indigenous lands, learn.",
+                "type": "paragraph"
+            }
+        },
+        "n-WokhcN": {
+            "type": "text",
+            "data": {
+                "text": "<em>“It’s not just a museum to be gawked at. Really think about it. Go deeper than just viewing. Think about who used to live there, who still lives there.”</em>",
+                "type": "quote"
+            }
+        },
+        "n-nUeoHm": {
+            "type": "text",
+            "data": {
+                "type": "h2",
+                "text": "Leigh Kuwanwisiwma, Hopi"
+            }
+        },
+        "n-qAHMsg": {
+            "type": "text",
+            "data": {
+                "text": "“Hopi, I believe, is really among the oldest of ancient cultures here in North America. Our history goes back to creation.”",
+                "type": "h3"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-RVFM1s": {
+            "type": "text",
+            "data": {
+                "text": "– Leigh Kuwanwisiwma, Hopi",
+                "type": "paragraph"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-rs9HMr": {
+            "type": "immersive-narrative-panel",
+            "data": {
+                "position": "end-bottom",
+                "panelStyle": "themed"
+            },
+            "children": [
+                "n-qAHMsg",
+                "n-RVFM1s"
+            ]
+        },
+        "n-Gnc2kP": {
+            "type": "image",
+            "data": {
+                "alt": "Leigh Kuwanwisiwma, Hopi, photo by Deidra Peaches",
+                "image": "r-39ECVG"
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.29141104294478526,
+                        "y": 0.1759756787330317
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-rNgmD3": {
+            "type": "immersive-slide",
+            "data": {
+                "transition": "fade",
+                "backgroundColor": "#A9B4B3"
+            },
+            "children": [
+                "n-rs9HMr",
+                "n-Gnc2kP"
+            ]
+        },
+        "n-uhLMD7": {
+            "type": "immersive",
+            "data": {
+                "type": "slideshow"
+            },
+            "children": [
+                "n-rNgmD3"
+            ]
+        },
+        "n-2MirMt": {
+            "type": "text",
+            "data": {
+                "type": "paragraph",
+                "text": "For a lot of us, tracing family ancestry is a dead end. But for the Hopi people in northeastern Arizona, there is no question about where they come from—the evidence is painted on cliff walls, etched in rock, scattered on canyon floors, and built into alcoves."
+            }
+        },
+        "n-89VUlk": {
+            "type": "image",
+            "data": {
+                "alt": "Present day map of Hopi. Map by Stephanie Smith.",
+                "image": "r-eVyqkW"
+            },
+            "config": {
+                "size": "float",
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-mi_n1q": {
+            "type": "text",
+            "data": {
+                "text": "Today, the Hopi live in a system of 12 villages spanning three mesas that, as the Hopi say, are the center of the world—the spiritual center for everyone. They’ve been in their present villages for about 1,000 years, but their history goes back much further, to the Ancestral Puebloans who lived, farmed, and moved throughout the Southwest.",
+                "type": "paragraph"
+            }
+        },
+        "n-M0oWsk": {
+            "type": "text",
+            "data": {
+                "text": "The Hopi remember their ancestors’ migrations through traditions and clan histories. Petroglyphs, pottery sherds, and archaeological sites are living connections to the people who walked before them.",
+                "type": "paragraph"
+            }
+        },
+        "n-6ITnOt": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758963872&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Leigh Kuwanwisiwma on Hopiland",
+                "description": "Listen to Leigh Kuwanwisiwma, former director of the Hopi Cultural Preservation Office, describe his ancestral homelands.",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Listen to Kuwanwisiwma describe his ancestral homelands.</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Leigh Kuwanwisiwma, former director of the Hopi Cultural Preservation Office, describes Hopiland.",
+                "hasPlaceholderOpenButton": true,
+                "thumbnailResourceId": "r-xbkKE2"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-dITmM0": {
+            "type": "text",
+            "data": {
+                "text": "“The archaeological sites are our footprints. It is evidence that the Hopi clans traveled through here, and eventually returned to the spiritual center, which are the Hopi mesas,” says Leigh Kuwanwisiwma, former director of the Hopi Cultural Preservation Office.",
+                "type": "paragraph"
+            }
+        },
+        "n-RDzj7c": {
+            "type": "text",
+            "data": {
+                "text": "The Grand Canyon, he says, is a monument to the legacy of the Hopi clans. It is their genesis as well as their final spiritual home.",
+                "type": "paragraph"
+            }
+        },
+        "n-Z_LEaR": {
+            "type": "text",
+            "data": {
+                "text": "<em>“The Hopi are taught that we traveled through four stages of life, which are still remembered vividly in our rituals, through songs, and different displays. And finally, we emerged here, into the 4th world. They say we emerged from the Grand Canyon at a place called Sipapuni, which is the trail to the underworld.”</em>",
+                "type": "quote"
+            }
+        },
+        "n-wmyHVI": {
+            "type": "embed",
+            "data": {
+                "url": "https://vimeo.com/391276200",
+                "title": "Private video on Vimeo",
+                "description": "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.",
+                "providerUrl": "https://vimeo.com/",
+                "caption": "<p>Kuwanwisiwma shares what the Grand Canyon means to him and its significance to all of humanity.</p>",
+                "embedType": "video",
+                "display": "inline",
+                "width": 1920,
+                "aspectRatio": 1.7777,
+                "alt": "Leigh Kuwanwisiwma, former director of the Hopi Cultural Preservation Office, shares what the Grand Canyon means to him and its significance to all of humanity.",
+                "hasPlaceholderOpenButton": true
+            }
+        },
+        "n-UaI8Ob": {
+            "type": "text",
+            "data": {
+                "text": "“The Hopi talk about the Grand Canyon where you can have two growing seasons. Those are the kind of special memories we have of the Grand Canyon. That’s the practical stuff of living down there and surviving, and then eventually coming up into the plateau. The Colorado Plateau.” ",
+                "type": "paragraph"
+            }
+        },
+        "n-U78Orl": {
+            "type": "text",
+            "data": {
+                "text": "According to Kuwanwisiwma, the Hopi were told to spread their footprints as far as they could. From the Grand Canyon, some migrated south, to Mexico, Honduras, Guatemala, and Peru, then over to Easter Island and Indonesia. Others stayed in the north. The two cultures—the North American clans and the South American clans—eventually merged into one.",
+                "type": "paragraph"
+            }
+        },
+        "n-_BW1ZU": {
+            "type": "text",
+            "data": {
+                "text": "<em>“Today we coexist as one people.” </em>",
+                "type": "quote"
+            }
+        },
+        "n-lwhP0W": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758965255&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Leigh Kuwanwisiwma Traces His Hopi Lineage",
+                "description": "Listen to Leigh Kuwanwisiwma, former director of the Hopi Cultural Preservation Office, trace his Hopi ancestry.",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Listen to Kuwanwisiwma trace the Hopi lineage.</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Leigh Kuwanwisiwma, former director of the Hopi Cultural Preservation Office, trace his Hopi ancestry.",
+                "hasPlaceholderOpenButton": true,
+                "thumbnailResourceId": "r-9Reu9B"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-jeS0Ht": {
+            "type": "text",
+            "data": {
+                "text": "The Hopi, Kuwanwisiwma says, are a people who had to go on long migrations and experience hardship. ",
+                "type": "paragraph"
+            }
+        },
+        "n-1aLxiS": {
+            "type": "text",
+            "data": {
+                "text": "“But out of that, we earned the right to be stewards of the Earth. And that’s what we consider ourselves to be.”",
+                "type": "paragraph"
+            }
+        },
+        "n-Bu1hGf": {
+            "type": "text",
+            "data": {
+                "text": "He urges Grand Canyon visitors to remember: ",
+                "type": "paragraph"
+            }
+        },
+        "n-pTUACH": {
+            "type": "text",
+            "data": {
+                "text": "<em>“It’s a tourist destination today, and rightfully so, I believe. But I think visitors should come in and behave in a way that’s reverent, respectful, and honoring.”</em>",
+                "type": "quote"
+            }
+        },
+        "n-Kep8fU": {
+            "type": "text",
+            "data": {
+                "type": "h2",
+                "text": "Coleen Kaska, Havasupai"
+            }
+        },
+        "n-axhEpS": {
+            "type": "text",
+            "data": {
+                "text": "“My people have learned to adapt. That’s why we’re still here.”",
+                "type": "h3"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-FET2NS": {
+            "type": "text",
+            "data": {
+                "text": "– Coleen Kaska, Havasupai",
+                "type": "paragraph"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-nPbb4B": {
+            "type": "immersive-narrative-panel",
+            "data": {
+                "position": "start-bottom",
+                "panelStyle": "themed"
+            },
+            "children": [
+                "n-axhEpS",
+                "n-FET2NS"
+            ]
+        },
+        "n-io5fSJ": {
+            "type": "image",
+            "data": {
+                "alt": "Coleen Kaska, Havasupai, photo by Deidra Peaches",
+                "image": "r-BUarNS"
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.598159509202454,
+                        "y": 0.29305875576036866
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-u6R0_c": {
+            "type": "immersive-slide",
+            "data": {
+                "transition": "fade",
+                "backgroundColor": "#A9B4B3"
+            },
+            "children": [
+                "n-nPbb4B",
+                "n-io5fSJ"
+            ]
+        },
+        "n-c8jBky": {
+            "type": "immersive",
+            "data": {
+                "type": "slideshow"
+            },
+            "children": [
+                "n-u6R0_c"
+            ]
+        },
+        "n-QaiOu7": {
+            "type": "text",
+            "data": {
+                "text": "Two parallel tracks of steel dead-end in the heart of Grand Canyon Village, carrying trainloads of tourists each day to the rim of Grand Canyon National Park. Built at the turn of the 20th century, the Grand Canyon Railway touts “before there was a park, there was a train.”",
+                "type": "paragraph"
+            }
+        },
+        "n-MYPf70": {
+            "type": "text",
+            "data": {
+                "text": "Well lest we forget: before there was a park or a train, there were Native peoples farming, raising children, trading goods, and making pilgrimages in the canyon.",
+                "type": "paragraph"
+            }
+        },
+        "n-E0C9Gg": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758963617&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Coleen Kaska on Havasupai Regalia",
+                "description": "Listen to Coleen Kaska, a former Havasupai Tribal Council member, describe her traditional Havasupai regalia.",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Kaska describes her traditional Havasupai regalia.</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Coleen Kaska, a former Havasupai Tribal Council member, describes her traditional Havasupai regalia.",
+                "hasPlaceholderOpenButton": true,
+                "thumbnailResourceId": "r-p0M0m0"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-MDbXhE": {
+            "type": "image",
+            "data": {
+                "alt": "Havasupai Upper Falls, photo by Ed Moss.",
+                "image": "r-yeP2uf"
+            },
+            "config": {
+                "size": "float",
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-Pflh_R": {
+            "type": "text",
+            "data": {
+                "text": "The Havasupai, or the Havasu 'Baaja, the “people of the blue-green waters,” have lived in the Grand Canyon for thousands of years.",
+                "type": "paragraph"
+            }
+        },
+        "n-t8IOs0": {
+            "type": "text",
+            "data": {
+                "text": "“My tribe has lost over 500 million acres, which includes all the plateau lands up here and Grand Canyon National Park. We were told that we could not live there anymore,” says Coleen Kaska, a former Havasupai Tribal Council member.",
+                "type": "paragraph"
+            }
+        },
+        "n-F4CLaw": {
+            "type": "text",
+            "data": {
+                "text": "",
+                "type": "paragraph"
+            }
+        },
+        "n-_ENWys": {
+            "type": "embed",
+            "data": {
+                "url": "https://vimeo.com/391264004",
+                "title": "Private video on Vimeo",
+                "description": "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.",
+                "providerUrl": "https://vimeo.com/",
+                "caption": "<p>Kaska shares her ancestral connections to the Grand Canyon and surrounding lands.</p>",
+                "embedType": "video",
+                "display": "inline",
+                "width": 1920,
+                "aspectRatio": 1.617
+            }
+        },
+        "n-AY_kod": {
+            "type": "text",
+            "data": {
+                "text": "As cultures adapt—in this case to forced removal from their ancestral territory—so do languages. In a few generations’ time, the word for Grand Canyon in the Havasupai language has become “wambodajwogo.” Literally translated, Kaska says it means “where the train stops.”",
+                "type": "paragraph"
+            }
+        },
+        "n-gfKH3q": {
+            "type": "image",
+            "data": {
+                "alt": "Present day map of Havasupai. Map by Stephanie Smith.",
+                "image": "r-SA5o9y"
+            },
+            "config": {
+                "size": "float",
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-IFpYaq": {
+            "type": "text",
+            "data": {
+                "text": "Today, the Havasupai live 35 miles west of the park hubbub in a tributary canyon known for its beautiful waterfalls. Getting there from the South Rim takes a 3.5-hour drive, plus either an 8-mile hike or a helicopter ride. A few families live at the South Rim in Supai Camp, a 160-acre parcel of land within the park about a mile from the rim, tucked away from shuttle buses, hotels, and tourists.",
+                "type": "paragraph"
+            }
+        },
+        "n-UuMJ2U": {
+            "type": "text",
+            "data": {
+                "text": "Kaska says growing up in the village of Supai and being restricted to reservation lands, she only knew of places like Red Butte, the Havasupai place of emergence, and Indian Garden, where her ancestors lived and farmed, through oral stories.",
+                "type": "paragraph"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-OaDb1M": {
+            "type": "immersive-narrative-panel",
+            "data": {
+                "position": "start",
+                "panelStyle": "themed"
+            },
+            "children": [
+                "n-UuMJ2U"
+            ]
+        },
+        "n-2jd6b5": {
+            "type": "image",
+            "data": {
+                "alt": "Coleen Kaska, Havasupai at Red Butte, photo by Amy Martin",
+                "image": "r-OX0wP5"
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-hPxRmd": {
+            "type": "immersive-slide",
+            "data": {
+                "transition": "fade"
+            },
+            "children": [
+                "n-OaDb1M",
+                "n-2jd6b5"
+            ]
+        },
+        "n-bGIMe8": {
+            "type": "text",
+            "data": {
+                "text": "Her parents taught her,",
+                "type": "paragraph"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-d4xjAV": {
+            "type": "text",
+            "data": {
+                "text": "<em>“You as a youngster, you need to grow up and pursue the lands that we have lost.”</em>",
+                "type": "quote"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-u60RvD": {
+            "type": "immersive-narrative-panel",
+            "data": {
+                "position": "start",
+                "panelStyle": "themed"
+            },
+            "children": [
+                "n-bGIMe8",
+                "n-d4xjAV"
+            ]
+        },
+        "n-m7ZP1u": {
+            "type": "image",
+            "data": {
+                "alt": "Red Butte, photo by Amy Martin.",
+                "image": "r-Z2ARqa"
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.4938650306748466,
+                        "y": 0.5685319767441861
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-D8WC4j": {
+            "type": "immersive-slide",
+            "data": {
+                "transition": "fade"
+            },
+            "children": [
+                "n-u60RvD",
+                "n-m7ZP1u"
+            ]
+        },
+        "n-2jhd4_": {
+            "type": "immersive",
+            "data": {
+                "type": "sidecar",
+                "subtype": "docked-panel",
+                "narrativePanelPosition": "start",
+                "narrativePanelSize": "small"
+            },
+            "children": [
+                "n-hPxRmd",
+                "n-D8WC4j"
+            ]
+        },
+        "n-NOiYK0": {
+            "type": "text",
+            "data": {
+                "text": "For Kaska, the centennial anniversary of Grand Canyon National Park in 2019 wasn’t an occasion for party hats and balloons. ",
+                "type": "paragraph"
+            }
+        },
+        "n-6D5js2": {
+            "type": "text",
+            "data": {
+                "text": "“I want people to know about the centennial—that it’s not a celebration. For over 100 years for my people—we’ve lost a lot of mingling, coming up here, picking herbs, and living like my ancestors.”",
+                "type": "quote"
+            }
+        },
+        "n-FCNMkg": {
+            "type": "text",
+            "data": {
+                "type": "paragraph",
+                "text": "She says:"
+            }
+        },
+        "n-sCbyAj": {
+            "type": "text",
+            "data": {
+                "text": "<em>“Know that Natives are still around—it’s just they’ve been restricted from the area of their roaming grounds. But they are still in the region. And they will never forget. I will never forget.”</em>",
+                "type": "quote"
+            }
+        },
+        "n-cpnweS": {
+            "type": "text",
+            "data": {
+                "type": "h2",
+                "text": "Loretta Jackson-Kelly, Hualapai"
+            }
+        },
+        "n-Jhtgsd": {
+            "type": "text",
+            "data": {
+                "text": "“Our ancestral homelands encompass 7 million acres of northwestern Arizona.\"",
+                "type": "h3"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-YOlbLf": {
+            "type": "text",
+            "data": {
+                "text": "– Loretta Jackson-Kelly, Hualapai",
+                "type": "paragraph"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-eKIw7H": {
+            "type": "immersive-narrative-panel",
+            "data": {
+                "position": "end-bottom",
+                "panelStyle": "themed"
+            },
+            "children": [
+                "n-Jhtgsd",
+                "n-YOlbLf"
+            ]
+        },
+        "n-V2u9fM": {
+            "type": "image",
+            "data": {
+                "alt": "Loretta Jackson-Kelly, Hualapai, photo by Deidra Peaches",
+                "image": "r-L7UFAz"
+            },
+            "config": {
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.18711656441717792,
+                        "y": 0.29388888888888887
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-X8hrkZ": {
+            "type": "immersive-slide",
+            "data": {
+                "transition": "fade",
+                "backgroundColor": "#A9B4B3"
+            },
+            "children": [
+                "n-eKIw7H",
+                "n-V2u9fM"
+            ]
+        },
+        "n-7SNQYy": {
+            "type": "immersive",
+            "data": {
+                "type": "slideshow"
+            },
+            "children": [
+                "n-X8hrkZ"
+            ]
+        },
+        "n-opBNMW": {
+            "type": "text",
+            "data": {
+                "type": "paragraph",
+                "text": "The Grand Canyon is a significant roadblock in northern Arizona. At 277 miles long, 10-18 miles wide, and over a mile deep, access points are few and far between. Diamond Creek Road on the Hualapai reservation is one of the only places in the Grand Canyon where you can drive to the banks of the Colorado River."
+            }
+        },
+        "n-6St3SD": {
+            "type": "text",
+            "data": {
+                "text": "But long before tourists made the bumpy hour-long drive down the streambed of Diamond Creek, the Hualapai were using it to sustain themselves as a people. They migrated seasonally between the higher, cooler plateau lands in the pine trees, and the lower, lush banks of the Colorado River.",
+                "type": "paragraph"
+            }
+        },
+        "n-Sd3Skv": {
+            "type": "text",
+            "data": {
+                "text": "<em>\"Before the coming of the Anglos, we traversed from area to area utilizing the natural resources for food, for medicine, for housing, for trade.\"</em>",
+                "type": "quote"
+            }
+        },
+        "n-JPgICs": {
+            "type": "image",
+            "data": {
+                "alt": "Present day map of Hualapai. Map by Stephanie Smith.",
+                "image": "r-Xk0bmK"
+            },
+            "config": {
+                "size": "float",
+                "placement": {
+                    "type": "fill",
+                    "fill": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "fit": {
+                        "color": "backgroundColor"
+                    }
+                }
+            }
+        },
+        "n-kPzWJJ": {
+            "type": "text",
+            "data": {
+                "text": "Today, the Hualapai reservation encompasses 106 miles of the Colorado River within the Grand Canyon.",
+                "type": "paragraph"
+            }
+        },
+        "n-vaoKEx": {
+            "type": "text",
+            "data": {
+                "text": "“Since time immemorial, the Colorado River and the Grand Canyon have been a very important link to our existence, to the time of our creation. Our ancestors had always told us not to forget that the middle of the river is the backbone of the people. Without the backbone, we cannot survive,” says Loretta Jackson-Kelly, a Hualapai tribal member with 25 years of service in the tribe’s department of cultural resources.",
+                "type": "paragraph"
+            }
+        },
+        "n-Mw2iZC": {
+            "type": "embed",
+            "data": {
+                "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/758965228&color=%23b03823&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true",
+                "height": 166,
+                "useSmartEmbed": false,
+                "addedAsEmbedCode": true,
+                "title": "Loretta Jackson-Kelly on the Pai people",
+                "providerUrl": "https://w.soundcloud.com",
+                "caption": "<p>Listen to Jackson-Kelly talk about the Pai people.</p>",
+                "embedType": "link",
+                "display": "inline",
+                "alt": "Loretta Jackson-Kelly talks about the Pai people",
+                "hasPlaceholderOpenButton": true,
+                "description": "Loretta Jackson-Kelly, a Hualapai tribal member with 25 years of service in the tribe’s department of cultural resources, talks about the Pai people.",
+                "thumbnailUrl": "https://GCTrust.maps.arcgis.com/sharing/rest/content/items/b22a6a09bb2344ff845d9efd3e4152f7/resources/1582064925853.jpeg?w=400&token=K-KIprRfiGcHiF01lFeYxz9OdV8qgZwMMR9n0EQ91lGaX-pMOA5cqSUq9wz9SYvUBUaxpllrpCne0cxD--3psPUUJz-4WQoBX-KQhyBtINmEqMWMwtys5HkaZ8chm44ktaO4MxiFi_7Ag0pm08gkrGuS74U9vjZbqyW1X4WIbfq9ZB3Ew96bUSgrN79olOo6CDrcVUD9Ne9jLodpYeyg6dk12ip9015Vhw4aybZcBMI.",
+                "thumbnailResourceId": "r-R4XrSE"
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-uJ1F7p": {
+            "type": "embed",
+            "data": {
+                "url": "https://vimeo.com/391281923",
+                "title": "Private video on Vimeo",
+                "description": "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.",
+                "providerUrl": "https://vimeo.com/",
+                "caption": "<p>Loretta Jackson-Kelly speaks about her ancestral ties to the Grand Canyon and the importance of the Colorado River to her people.</p>",
+                "embedType": "video",
+                "display": "inline",
+                "width": 1920,
+                "aspectRatio": 1.617
+            }
+        },
+        "n-Kzgrcy": {
+            "type": "text",
+            "data": {
+                "text": "According to Jackson-Kelly, the Hualapai pay homage and respect the river, because it’s a healing body of water. And the native fish that live in it (not the introduced species) are ancestors to the Hualapai people.",
+                "type": "paragraph"
+            }
+        },
+        "n-XGDzsV": {
+            "type": "text",
+            "data": {
+                "text": "<em>“When you say your prayers and you wash yourself with the water, you’re giving yourself many blessings and letting go of the negativity that might be building up around.”</em>",
+                "type": "quote"
+            }
+        },
+        "n-ZyZ73U": {
+            "type": "text",
+            "data": {
+                "text": "Jackson-Kelly has worked as director of the Hualapai Department of Cultural Resources and for the Grand Canyon Resort Corporation, which runs helicopter and boat tours and operates the well-known glass bridge called the Skywalk. She says tourists come to Hualapai holding stereotypical views of Native Americans.",
+                "type": "paragraph"
+            }
+        },
+        "n-YiRGfv": {
+            "type": "text",
+            "data": {
+                "text": "<em>“When people travel to other countries, they study up on the culture. They try to understand the type of world that they’re going to step into. I would like to see more people educated in that, on their own, first. And if they don’t get all the answers that they’re looking for, we’re here to help people from near and far to understand Hualapai people, Hualapai values, lifeways, and practices.\"</em>",
+                "type": "quote"
+            }
+        },
+        "n-ED6odR": {
+            "type": "image",
+            "data": {
+                "image": "r-1Q5a~K"
+            },
+            "config": {
+                "size": "full"
+            }
+        },
+        "n-3ugo1G": {
+            "type": "text",
+            "data": {
+                "type": "h2",
+                "text": "The Grand Canyon speaks to us all in different ways."
+            }
+        },
+        "n-uMhbUC": {
+            "type": "text",
+            "data": {
+                "type": "paragraph",
+                "text": "For Enote, Cooley, Kuwanwisiwma, Kaska, and Jackson-Kelly, it’s a homing beacon, a place of worship, a link to ancestors, a livelihood, a truth."
+            }
+        },
+        "n-1_6NdQ": {
+            "type": "text",
+            "data": {
+                "text": "Regardless of the languages we speak, the canyon can give us butterflies in our stomachs, make us feel small, or move us to tears. It stands to teach us all. So visit, listen, and ask questions.&nbsp;",
+                "type": "paragraph"
+            }
+        },
+        "n-d25umY": {
+            "type": "text",
+            "data": {
+                "text": "And remember: the more you learn, the deeper the canyon gets. ",
+                "type": "paragraph"
+            }
+        },
+        "n-eVY6qZ": {
+            "type": "image",
+            "data": {
+                "image": "r-WqI_wI",
+                "isExpandable": false
+            },
+            "config": {
+                "size": "wide"
+            }
+        },
+        "n-qR06Lg": {
+            "type": "text",
+            "data": {
+                "text": "Have a cultural connection to the Grand Canyon you’d like to share?",
+                "type": "h3"
+            }
+        },
+        "n-0kQHNI": {
+            "type": "text",
+            "data": {
+                "text": "To redefine the next century of Grand Canyon National Park, Native voices need to be amplified to tell a more complete story. The Grand Canyon is more than beautiful geology, wildlife, and scenic views. It’s a homeland—a place of emergence, spiritual resting ground, library of cultural knowledge, and life source—to many. ",
+                "type": "paragraph"
+            }
+        },
+        "n-3c6Knc": {
+            "type": "text",
+            "data": {
+                "text": "What does it mean to you? What were you taught about the Grand Canyon growing up? What’s your first memory of the Grand Canyon?",
+                "type": "paragraph"
+            }
+        },
+        "n-JpcIbK": {
+            "type": "embed",
+            "data": {
+                "url": "https://www.grandcanyontrust.org/staff/sarana-riggs",
+                "title": "Would you like to add your story?",
+                "description": "If you’d like to add your personal story to this collection, email Sarana Riggs, Grand Canyon Program Manager at sriggs@grandcanyontrust.org.",
+                "providerUrl": "https://www.grandcanyontrust.org",
+                "thumbnailUrl": "https://www.grandcanyontrust.org/sites/default/files/Grand_Canyon_Conlfuence_Amy_Martin.jpg",
+                "caption": "Grand Canyon Program Manager | Grand Canyon Trust",
+                "embedType": "link",
+                "display": "card",
+                "alt": "",
+                "hasPlaceholderOpenButton": true,
+                "thumbnailResourceId": "r-wrTv_F"
+            }
+        },
+        "n-sdR0xw": {
+            "type": "text",
+            "data": {
+                "text": "",
+                "type": "paragraph"
+            }
+        },
+        "n-KRpbl8": {
+            "type": "text",
+            "data": {
+                "text": "",
+                "type": "h4"
+            }
+        },
+        "n-OdKHwf": {
+            "type": "text",
+            "data": {
+                "text": "Special thanks to Jim Enote, Nikki Cooley, Leigh Kuwanwisiwma, Coleen Kaska, and Loretta Jackson-Kelly for sharing their stories.",
+                "type": "paragraph"
+            }
+        },
+        "n-uPRAxO": {
+            "type": "attribution",
+            "data": {
+                "content": "Text",
+                "attribution": "Ellen Heyn"
+            }
+        },
+        "n-GQUezQ": {
+            "type": "attribution",
+            "data": {
+                "content": "Videography",
+                "attribution": "Deidra Peaches, Paper Rocket Productions"
+            }
+        },
+        "n-Hxsreh": {
+            "type": "attribution",
+            "data": {
+                "content": "Story Design and Maps",
+                "attribution": "Stephanie Smith"
+            }
+        },
+        "n-EMbjbR": {
+            "type": "attribution",
+            "data": {
+                "content": "Photo Credits",
+                "attribution": "Deidra Peaches, Amy Martin, Ed Moss"
+            }
+        },
+        "n-PMFq_L": {
+            "type": "credits",
+            "children": [
+                "n-KRpbl8",
+                "n-OdKHwf",
+                "n-uPRAxO",
+                "n-GQUezQ",
+                "n-Hxsreh",
+                "n-EMbjbR"
+            ]
+        },
+        "n-NeaauE": {
+            "type": "story",
+            "data": {
+                "storyTheme": "r-79_91d",
+                "storyLogoResource": "r-EKBZ5N"
+            },
+            "config": {
+                "gaid": "UA-5636408-1",
+                "isSocialIconsHidden": true,
+                "coverDate": "none"
+            },
+            "children": [
+                "n-GPCp2W",
+                "n-swGKnW",
+                "n-b2re2T",
+                "n-aioUXg",
+                "n-QASdsz",
+                "n-o2xUVk",
+                "n-4AeOWD",
+                "n-4v7vqX",
+                "n-NxGs1B",
+                "n-KuxvyZ",
+                "n-1Thj8O",
+                "n-_JOuO2",
+                "n-wCqQXJ",
+                "n-JEoNCx",
+                "n-bs9Bil",
+                "n-sSETs3",
+                "n-ddOZs4",
+                "n-qdLnRt",
+                "n-mcADxO",
+                "n-1l_kJP",
+                "n-jXYFZF",
+                "n-JlMrlz",
+                "n-jqqJNI",
+                "n-s0BmzM",
+                "n-DQI3Ky",
+                "n-jB0R3f",
+                "n-uRvzSs",
+                "n-4t4gt6",
+                "n-kSbhbU",
+                "n-iD4_cq",
+                "n-qjQFZ8",
+                "n-6EpHzn",
+                "n-_jJus-",
+                "n-SfwjFD",
+                "n-9JRyE6",
+                "n-suQLeM",
+                "n-dKCw31",
+                "n-JZnaty",
+                "n-jEjftI",
+                "n-8wttca",
+                "n-qpYXa8",
+                "n-Z0utX6",
+                "n-kKRQV2",
+                "n-dPn3MF",
+                "n-brOogO",
+                "n-hIMprL",
+                "n-ZdbiPE",
+                "n-Yfoqv_",
+                "n-jLMSvb",
+                "n-hstT_V",
+                "n-PSl2O4",
+                "n-fSzu5U",
+                "n-WokhcN",
+                "n-nUeoHm",
+                "n-uhLMD7",
+                "n-2MirMt",
+                "n-89VUlk",
+                "n-mi_n1q",
+                "n-M0oWsk",
+                "n-6ITnOt",
+                "n-dITmM0",
+                "n-RDzj7c",
+                "n-Z_LEaR",
+                "n-wmyHVI",
+                "n-UaI8Ob",
+                "n-U78Orl",
+                "n-_BW1ZU",
+                "n-lwhP0W",
+                "n-jeS0Ht",
+                "n-1aLxiS",
+                "n-Bu1hGf",
+                "n-pTUACH",
+                "n-Kep8fU",
+                "n-c8jBky",
+                "n-QaiOu7",
+                "n-MYPf70",
+                "n-E0C9Gg",
+                "n-MDbXhE",
+                "n-Pflh_R",
+                "n-t8IOs0",
+                "n-F4CLaw",
+                "n-_ENWys",
+                "n-AY_kod",
+                "n-gfKH3q",
+                "n-IFpYaq",
+                "n-2jhd4_",
+                "n-NOiYK0",
+                "n-6D5js2",
+                "n-FCNMkg",
+                "n-sCbyAj",
+                "n-cpnweS",
+                "n-7SNQYy",
+                "n-opBNMW",
+                "n-6St3SD",
+                "n-Sd3Skv",
+                "n-JPgICs",
+                "n-kPzWJJ",
+                "n-vaoKEx",
+                "n-Mw2iZC",
+                "n-uJ1F7p",
+                "n-Kzgrcy",
+                "n-XGDzsV",
+                "n-ZyZ73U",
+                "n-YiRGfv",
+                "n-ED6odR",
+                "n-3ugo1G",
+                "n-uMhbUC",
+                "n-1_6NdQ",
+                "n-d25umY",
+                "n-eVY6qZ",
+                "n-qR06Lg",
+                "n-0kQHNI",
+                "n-3c6Knc",
+                "n-JpcIbK",
+                "n-sdR0xw",
+                "n-PMFq_L"
+            ]
+        }
+    },
+    "resources": {
+        "r-Vu0w0H": {
+            "type": "image",
+            "data": {
+                "resourceId": "1589319364883.jpeg",
+                "provider": "item-resource",
+                "height": 1605,
+                "width": 2711
+            }
+        },
+        "r-D83nxm": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582401719780.jpeg",
+                "provider": "item-resource",
+                "height": 1606,
+                "width": 4000
+            }
+        },
+        "r-gootg1": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582056224419.png",
+                "provider": "item-resource",
+                "height": 94,
+                "width": 2000
+            }
+        },
+        "r-lGo5HV": {
+            "type": "image",
+            "data": {
+                "resourceId": "1576173252110.jpeg",
+                "provider": "item-resource",
+                "height": 3448,
+                "width": 5168
+            }
+        },
+        "r-WOLPtV": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581609066425.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-Bp2peL": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582142855355.jpeg",
+                "provider": "item-resource",
+                "height": 2160,
+                "width": 3840
+            }
+        },
+        "r-CerasA": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582142784868.jpeg",
+                "provider": "item-resource",
+                "height": 1733,
+                "width": 2381
+            }
+        },
+        "r-_ZoioI": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581609137922.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-tqJlv0": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581458000811.jpeg",
+                "provider": "item-resource",
+                "height": 2160,
+                "width": 3840
+            }
+        },
+        "r-AJq6kW": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581609646232.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-uIKI6x": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582054804061.jpeg",
+                "provider": "item-resource",
+                "height": 1810,
+                "width": 2713
+            }
+        },
+        "r-ovIeFj": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582143319696.jpeg",
+                "provider": "item-resource",
+                "height": 1733,
+                "width": 2381
+            }
+        },
+        "r-FcYVYO": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581608650227.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-gcs4OK": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581610003699.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-mCR2ox": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582157495181.jpeg",
+                "provider": "item-resource",
+                "height": 2520,
+                "width": 3781
+            }
+        },
+        "r-f5TlOT": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581614760543.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-39ECVG": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581615362889.jpeg",
+                "provider": "item-resource",
+                "height": 1832,
+                "width": 2702
+            }
+        },
+        "r-eVyqkW": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582152444433.jpeg",
+                "provider": "item-resource",
+                "height": 1733,
+                "width": 2381
+            }
+        },
+        "r-xbkKE2": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581615810031.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-9Reu9B": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581616288918.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-BUarNS": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581618751804.jpeg",
+                "provider": "item-resource",
+                "height": 1856,
+                "width": 2783
+            }
+        },
+        "r-p0M0m0": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581619176789.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-yeP2uf": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581624629833.jpeg",
+                "provider": "item-resource",
+                "height": 1162,
+                "width": 2048
+            }
+        },
+        "r-SA5o9y": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582144508347.jpeg",
+                "provider": "item-resource",
+                "height": 1733,
+                "width": 2381
+            }
+        },
+        "r-OX0wP5": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582044036262.jpeg",
+                "provider": "item-resource",
+                "height": 2240,
+                "width": 3360
+            }
+        },
+        "r-Z2ARqa": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582057800094.jpeg",
+                "provider": "item-resource",
+                "height": 2836,
+                "width": 4286
+            }
+        },
+        "r-L7UFAz": {
+            "type": "image",
+            "data": {
+                "resourceId": "1581715688611.jpeg",
+                "provider": "item-resource",
+                "height": 1629,
+                "width": 2353
+            }
+        },
+        "r-Xk0bmK": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582143972028.jpeg",
+                "provider": "item-resource",
+                "height": 1733,
+                "width": 2381
+            }
+        },
+        "r-R4XrSE": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582064925853.jpeg",
+                "provider": "item-resource",
+                "height": 500,
+                "width": 500
+            }
+        },
+        "r-1Q5a~K": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582304247497.jpeg",
+                "provider": "item-resource",
+                "height": 600,
+                "width": 4000
+            }
+        },
+        "r-WqI_wI": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582129081017.png",
+                "provider": "item-resource",
+                "height": 94,
+                "width": 2000
+            }
+        },
+        "r-wrTv_F": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582128883214.jpeg",
+                "provider": "item-resource",
+                "height": 2836,
+                "width": 4286
+            }
+        },
+        "r-79_91d": {
+            "type": "story-theme",
+            "data": {
+                "themeId": "summit",
+                "themeBaseVariableOverrides": {
+                    "accentColor1": "#B03823",
+                    "titleFontId": "avenirNext",
+                    "bodyFontId": "notoSerif"
+                }
+            }
+        },
+        "r-EKBZ5N": {
+            "type": "image",
+            "data": {
+                "resourceId": "1582154747956.jpeg",
+                "provider": "item-resource",
+                "height": 405,
+                "width": 815
+            }
+        }
+    }
+}
+// res2 [
+//     'n-GPCp2W', 'n-swGKnW', 'n-b2re2T', 'n-aioUXg', 'n-QASdsz',
+//     'n-o2xUVk', 'n-4AeOWD', 'n-4v7vqX', 'n-NxGs1B', 'n-KuxvyZ',
+//     'n-1Thj8O', 'n-_JOuO2', 'n-wCqQXJ', 'n-JEoNCx', 'n-bs9Bil',
+//     'n-sSETs3', 'n-ddOZs4', 'n-qdLnRt', 'n-mcADxO', 'n-1l_kJP',
+//     'n-jXYFZF', 'n-JlMrlz', 'n-jqqJNI', 'n-s0BmzM', 'n-DQI3Ky',
+//     'n-jB0R3f', 'n-uRvzSs', 'n-4t4gt6', 'n-kSbhbU', 'n-iD4_cq',
+//     'n-qjQFZ8', 'n-6EpHzn', 'n-_jJus-', 'n-SfwjFD', 'n-9JRyE6',
+//     'n-suQLeM', 'n-dKCw31', 'n-JZnaty', 'n-jEjftI', 'n-8wttca',
+//     'n-qpYXa8', 'n-Z0utX6', 'n-kKRQV2', 'n-dPn3MF', 'n-brOogO',
+//     'n-hIMprL', 'n-ZdbiPE', 'n-Yfoqv_', 'n-jLMSvb', 'n-hstT_V',
+//     'n-PSl2O4', 'n-fSzu5U', 'n-WokhcN', 'n-nUeoHm', 'n-uhLMD7',
+//     'n-2MirMt', 'n-89VUlk', 'n-mi_n1q', 'n-M0oWsk', 'n-6ITnOt',
+//     'n-dITmM0', 'n-RDzj7c', 'n-Z_LEaR', 'n-wmyHVI', 'n-UaI8Ob',
+//     'n-U78Orl', 'n-_BW1ZU', 'n-lwhP0W', 'n-jeS0Ht', 'n-1aLxiS',
+//     'n-Bu1hGf', 'n-pTUACH', 'n-Kep8fU', 'n-c8jBky', 'n-QaiOu7',
+//     'n-MYPf70', 'n-E0C9Gg', 'n-MDbXhE', 'n-Pflh_R', 'n-t8IOs0',
+//     'n-F4CLaw', 'n-_ENWys', 'n-AY_kod', 'n-gfKH3q', 'n-IFpYaq',
+//     'n-2jhd4_', 'n-NOiYK0', 'n-6D5js2', 'n-FCNMkg', 'n-sCbyAj',
+//     'n-cpnweS', 'n-7SNQYy', 'n-opBNMW', 'n-6St3SD', 'n-Sd3Skv',
+//     'n-JPgICs', 'n-kPzWJJ', 'n-vaoKEx', 'n-Mw2iZC', 'n-uJ1F7p'
+// ]
