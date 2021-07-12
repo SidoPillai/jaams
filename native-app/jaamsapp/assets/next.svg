@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <path fill="#AFEDEC" fill-rule="nonzero" d="M13.312 8.647L.682.075C.55-.015.377-.025.234.05.09.123 0 .269 0 .429V17.57c0 .16.09.306.233.38.064.033.133.049.202.049.087 0 .173-.026.248-.076l12.629-8.571c.118-.08.188-.212.188-.353s-.07-.273-.188-.353z" transform="translate(-327.000000, -701.000000) translate(8.000000, 406.000000) translate(24.000000, 230.000000) translate(185.000000, 47.000000) translate(110.000000, 18.000000)"/>
+                            <path stroke="#AFEDEC" stroke-linecap="square" d="M16.313 1.125L16.313 18" transform="translate(-327.000000, -701.000000) translate(8.000000, 406.000000) translate(24.000000, 230.000000) translate(185.000000, 47.000000) translate(110.000000, 18.000000)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
