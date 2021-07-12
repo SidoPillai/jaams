@@ -21,6 +21,7 @@ In order to use checkout the [backend-branch](https://github.com/siddeshpillai/j
 
 #### Chrome Extension
 Chrome Extension was developed using KMM - Kotlin/JS
+In order to use, checkout the [chrome-extension-branch](https://github.com/siddeshpillai/jaams/tree/chrome-extension)
 
 #### Native app
 Native app was developed using Flutter and Dart. 
