@@ -17,6 +17,7 @@ Read blog: https://storymaps.arcgis.com/stories/2f68e2ebb1e44f25acbdd1bcd23b2042
 
 #### Backend
 Node.js, Express.js
+In order to use checkout the [backend-branch](https://github.com/siddeshpillai/jaams/tree/backend)
 
 #### Chrome Extension
 Chrome Extension was developed using KMM - Kotlin/JS
