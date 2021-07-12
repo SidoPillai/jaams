@@ -27,6 +27,11 @@ Native app was developed using Flutter and Dart
 ### Contributors
 ![image](https://user-images.githubusercontent.com/4101783/125236414-c4d2fc80-e298-11eb-9201-1509e2f858d0.png)
 
+1. [Siddesh Pillai](https://github.com/siddeshpillai)
+2. [Abishek Narayanan](https://github.com/Abishek1997)
+3. [Melvin Mathew](https://github.com/melvinmat)
+4. [Aravind Sivasailam](https://github.com/aravindesri)
+5. [Jasper Huang](https://github.com/jazspartacus)
 
 ### Highlights
 
