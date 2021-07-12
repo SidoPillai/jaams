@@ -13,6 +13,16 @@ Read blog: https://storymaps.arcgis.com/stories/2f68e2ebb1e44f25acbdd1bcd23b2042
 
 ![image](https://user-images.githubusercontent.com/4101783/125236333-9ce39900-e298-11eb-93d2-786f14a31d35.png)
 
+### Stack
+
+#### Backend
+Node.js, Express.js
+
+#### Chrome Extension
+Chrome Extension was developed using KMM - Kotlin/JS
+
+#### Native app
+Native app was developed using Flutter and Dart
 
 ### Contributors
 ![image](https://user-images.githubusercontent.com/4101783/125236414-c4d2fc80-e298-11eb-9201-1509e2f858d0.png)
