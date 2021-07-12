@@ -22,7 +22,8 @@ Node.js, Express.js
 Chrome Extension was developed using KMM - Kotlin/JS
 
 #### Native app
-Native app was developed using Flutter and Dart
+Native app was developed using Flutter and Dart. 
+In order to use checkout the [flutter-app-branch](https://github.com/siddeshpillai/jaams/tree/flutter-app)
 
 ### Contributors
 ![image](https://user-images.githubusercontent.com/4101783/125236414-c4d2fc80-e298-11eb-9201-1509e2f858d0.png)
