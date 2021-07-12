@@ -19,6 +19,8 @@ Read blog: https://storymaps.arcgis.com/stories/2f68e2ebb1e44f25acbdd1bcd23b2042
 Node.js, Express.js
 In order to use checkout the [backend-branch](https://github.com/siddeshpillai/jaams/tree/backend)
 
+For code deploy script in AWS checkout [code-deploy-branch](https://github.com/siddeshpillai/jaams/tree/code-deploy)
+
 #### Chrome Extension
 Chrome Extension was developed using KMM - Kotlin/JS
 In order to use, checkout the [chrome-extension-branch](https://github.com/siddeshpillai/jaams/tree/chrome-extension)
