@@ -13,6 +13,8 @@ Read blog: https://storymaps.arcgis.com/stories/2f68e2ebb1e44f25acbdd1bcd23b2042
 
 ![image](https://user-images.githubusercontent.com/4101783/125236333-9ce39900-e298-11eb-93d2-786f14a31d35.png)
 
+![image](https://user-images.githubusercontent.com/4101783/125241429-45e1c200-e2a0-11eb-852c-a7d3d827c541.png)
+
 ### Stack
 
 #### Backend
