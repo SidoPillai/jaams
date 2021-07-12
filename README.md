@@ -40,6 +40,6 @@ In order to use checkout the [flutter-app-branch](https://github.com/siddeshpill
 
 ### Highlights
 
-J.A.A.M.S was awarded as the most innovate app in the internal hackathon. 
+J.A.A.M.S was awarded as the most innovative app in the internal hackathon. 
 
 https://storymaps.arcgis.com/stories/0591b06786c34509a5002910b6b17b15
